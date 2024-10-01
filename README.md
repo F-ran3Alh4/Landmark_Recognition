@@ -56,4 +56,4 @@ During the development of this project, several challenges were encountered:
 ## Links
 - [Hugging Face Space](https://huggingface.co/spaces/RanAlh443/Landmark_Recognition)
 - [Video Walkthrough](https://drive.google.com/file/d/1j2X9EU7m4IxPt606GI6liKz3S2I4zIHf/view?usp=sharing)
-- [Presentation Slides](PRESENTATION_LINK)
+- [Presentation Slides]([PRESENTATION_LINK](https://www.canva.com/design/DAGSUhaYrtg/sMyej8KMiKKSudH2ByUF3Q/view?utm_content=DAGSUhaYrtg&utm_campaign=designshare&utm_medium=link&utm_source=editor))
